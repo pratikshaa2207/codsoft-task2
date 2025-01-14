@@ -1,1 +1,2 @@
 # codsoft-task2
+Every dataset tells a story, and this one is sourced from IMDb.com, containing all the Indian movies listed on the platform. To prepare the data for analysis, it's essential to clean it by either removing entries with missing values or filling in those gaps with average values. This step is crucial for effective data manipulation and will facilitate your exploratory data analysis (EDA).
